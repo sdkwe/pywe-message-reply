@@ -20,7 +20,7 @@ setup(
 
     packages=['pywe_message_reply'],
     py_modules=[],
-    install_requires=['TimeConvert', 'pywe-xml>=1.0.3'],
+    install_requires=['TimeConvert', 'pywe-xml>=1.0.6'],
 
     classifiers=[
         'License :: OSI Approved :: BSD License',
